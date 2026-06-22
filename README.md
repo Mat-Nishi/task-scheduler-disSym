@@ -73,6 +73,8 @@ Em um novo terminal, execute:
 
 ## Opção 2: Execução via Docker
 
+A execução via Docker é menos recomendada pois os logs são disparados todos no mesmo terminal, dificultando visualização, além de tornar mais complexa a simulação de falhas, é sugerido utilizar dessa forma apenas no caso de falha na configuração do zig 0.15.2
+
 ### Instruções de Execução
 
 1. **Construa a imagem Docker:**
