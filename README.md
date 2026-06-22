@@ -1,4 +1,3 @@
-```markdown
 # Cluster Distribuído: Algoritmo Bully e Replicação
 
 Este projeto implementa uma aplicação distribuída baseada no algoritmo de eleição de líder (Bully) integrado a um mecanismo de replicação de estado (Primary-Backup). O cluster atua como um orquestrador que recebe tarefas de um cliente, gerencia uma fila no líder e distribui o processamento entre os nós seguidores. A comunicação entre os processos é feita via Berkeley Sockets.
