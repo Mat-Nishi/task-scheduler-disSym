@@ -13,7 +13,7 @@ chmod +x scripts/*.sh
 
 ---
 
-## Opção 1: Execução Local em Múltiplos Terminais
+## Opção 1: Execução Local em Múltiplos Terminais (RECOMENDADO)
 
 **Pré-requisito:** Compilador Zig 0.15.2.
 Caso não o possua, instale-o localmente na pasta do projeto utilizando o script abaixo:
@@ -110,7 +110,3 @@ pkill -f "main 9"
 
 
 3. Retorne ao terminal principal do Docker para observar o comportamento de reeleição e recuperação de estado pelos nós sobreviventes. Para encerrar o contêiner, utilize `Ctrl+C`.
-
-```
-
-```
