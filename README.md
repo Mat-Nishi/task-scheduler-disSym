@@ -1,5 +1,3 @@
-Aqui está o arquivo `README.md` completo e formatado. Dependendo da interface que você está utilizando, este bloco de código pode ser aberto diretamente no modo Canvas (ou você pode usar o botão de copiar no canto superior direito do bloco para salvá-lo como um arquivo).
-
 ```markdown
 # Cluster Distribuído: Algoritmo Bully e Replicação
 
