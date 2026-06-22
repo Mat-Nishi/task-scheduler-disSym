@@ -1,0 +1,8 @@
+.zig-cache/
+zig-out/
+main
+main.o
+task_generator
+task_generator.o
+logs/
+cluster.nodes
